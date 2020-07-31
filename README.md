@@ -31,5 +31,5 @@ even give him a bit of credit for the code he wrote himself.
 I would like to take on the challenge of implementing, cut, copy, and paste. These commands would be challenging on their own to implement, but I would also have to consider how to implement them with redo and undo working properly.
 
 ### Note:
-The tarball file that I included in the text editor folder contains the same 
+The tarball file that I included contains the same 
 three folders I included here: app, exp, and gtest.
