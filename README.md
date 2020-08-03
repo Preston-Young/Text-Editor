@@ -30,6 +30,9 @@ even give him a bit of credit for the code he wrote himself.
 ## What I would implement in the future:
 I would like to take on the challenge of implementing, cut, copy, and paste. These commands would be challenging on their own to implement, but I would also have to consider how to implement them with redo and undo working properly.
 
+## This is what a sample interaction looks like:
+![image](https://user-images.githubusercontent.com/56369636/89232595-9c2c8800-d59c-11ea-9ab7-521a85f7b6c4.png)
+
 ### Note:
 The tarball file that I included contains the same 
 three folders I included here: app, exp, and gtest.
